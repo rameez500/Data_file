@@ -1,7 +1,7 @@
 
 
 
-def some_data():
+def some_data_2():
     
     import numpy as np
     import matplotlib.pyplot as plt
